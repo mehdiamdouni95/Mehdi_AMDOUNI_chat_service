@@ -2,9 +2,14 @@
 
 Description :
 a simple directed/targeted chat service using JavaScript , HTML & CSS , Express and socket.io
+How to install :
+1. Clone the project
+2. Open the directory with command line and tap : npm install , to install the needed packages
+3. Tap : node index.js to run the project
+4. Open the web browser and open this link : http://localhost:8080/
 
 
-
+Answers to the questions :
 
 
 Once the implementation is done, think about an answer to the following questions:
