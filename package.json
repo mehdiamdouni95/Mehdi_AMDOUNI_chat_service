@@ -1,0 +1,17 @@
+{
+    "name": "Mehdi AMDOUNI Chat service",
+    "version": "0.0.1",
+    "description": "a simple directed/targeted chat service.",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "child_process": "^1.0.2",
+        "express": "^4.10.2",
+        "http": "0.0.0",
+        "multer": "^1.3.1",
+        "path": "^0.12.7",
+        "socket.io": "^2.1.1"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
